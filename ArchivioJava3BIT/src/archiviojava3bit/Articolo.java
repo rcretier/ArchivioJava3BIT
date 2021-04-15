@@ -7,5 +7,6 @@ package archiviojava3bit;
  * @author INSERISCI_NOME
  */
 public class Articolo {
-    
+  private String codice; //"ART002B"
+  private float prezzo;
 }
